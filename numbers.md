@@ -36,10 +36,6 @@
 */%
 +-
 ```
-####Number types and inner workings
-```ruby
-
-```
 ####Numbers/Strings conversion
 ```ruby
 

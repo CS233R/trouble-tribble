@@ -7,11 +7,11 @@
 ````ruby
 
 ````
-####Limmits of numbers
+####Limits of numbers
 ```ruby
 
 ```
-####Number and Strings conversion
+####Numbers/Strings conversion
 ```ruby
 
 ```

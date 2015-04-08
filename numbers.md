@@ -28,6 +28,14 @@
 #Exponents
 2 ** 2
 ````
+####Order of operations
+```ruby
+#PEMDAS
+()
+**
+*/%
++-
+```
 ####Number types and inner workings
 ```ruby
 

@@ -1,7 +1,7 @@
 #General
 ####Define Variables
 ```ruby
-"What is your age?"
+puts "What is your age?"
 age = gets
 put "Your age is #{age}."
 ```

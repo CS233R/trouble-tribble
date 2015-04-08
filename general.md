@@ -10,3 +10,11 @@ puts "Your age is #{age}."
 Name file with extension ".rb"
 Navigate to/run file "ruby file.rb"
 ```
+####Comments
+```ruby
+#Single-line comment
+
+=begin
+  Multi-line comment
+=end
+```

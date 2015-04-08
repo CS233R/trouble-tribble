@@ -28,6 +28,16 @@
 #Exponents
 2 ** 2
 ````
+####Assignment Operators
+```ruby
+#Calculates operation, then reassigns the result to the variable
++=
+-=
+*=
+/=
+%=
+**=
+```
 ####Order of operations
 ```ruby
 #PEMDAS

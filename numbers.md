@@ -1,8 +1,10 @@
 #Numbers
 ####Different Types
 ```ruby
-#Integers (Whole numbers)
+#Fixnum (Whole numbers)
 5
+#Bignum (Large Whole number)
+100000000000000000000000000000000000
 #Floats (Decimals)
 3.14
 ```

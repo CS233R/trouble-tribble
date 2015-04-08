@@ -23,7 +23,7 @@
 #Exponents
 2 ** 2
 ````
-####Limits of numbers
+####Number types and inner workings
 ```ruby
 
 ```

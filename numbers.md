@@ -32,6 +32,10 @@
 
 #Exponents
 2 ** 2
+
+#Range Operators
+1..10 #Range of 1 - 10 (Inclusive)
+1...10 #Range of 1 - 10 (Not including 10)
 ````
 ####Assignment Operators
 ```ruby

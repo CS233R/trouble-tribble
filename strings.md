@@ -20,10 +20,25 @@
 ```
 ####Character Encoding
 ```ruby
-$KCODE = "arguement" #Add to the beginning of the code page to change character encoding. Default is ASCII
+$KCODE = "arguement" #Add to the beginning of the code page to change character encoding.
+  #Default is ASCII
 #arguements:
   #a or n is default
   #e is EUC
   #u is UTF-8
 $KCODE = "u" #UTF-8
+```
+####Some String Methods
+```ruby
+"String".chomp #Removes new lines
+"Srting".capitalize #Capitalizes first character
+"String".downcase #Lowercases all letters
+"String".upcase #Capitalizes all letters
+
+#Adding ! to the end of many methods will operate the method then update the actual variable
+varible = "string"
+puts variable.upcase #(Shows "STRING")
+puts variable #(Shows "string")
+puts variable.upcase! #(Shows "STRING")
+puts variable #(Shows "STRING") <- Variable was updated with the new string
 ```

@@ -1,8 +1,9 @@
 #General
 ####Define Variables
 ```ruby
-variable = 0
-put variable
+"What is your age?"
+age = gets
+put "Your age is #{age}."
 ```
 ####Run Ruby Program
 ```ruby

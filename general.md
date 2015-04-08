@@ -3,7 +3,7 @@
 ```ruby
 puts "What is your age?"
 age = gets
-put "Your age is #{age}."
+puts "Your age is #{age}."
 ```
 ####Run Ruby Program
 ```ruby

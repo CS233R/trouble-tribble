@@ -1,7 +1,10 @@
 #Numbers
 ####Different Types
 ```ruby
-
+#Integers (Whole numbers)
+5
+#Floats (Decimals)
+3.14
 ```
 ####Operators
 ````ruby

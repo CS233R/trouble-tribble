@@ -18,16 +18,6 @@
 "#{variable}" #Place the variable in the quotes like this
 "Here is the average: #{average}."
 ```
-####Character Encoding
-```ruby
-$KCODE = "arguement" #Add to the beginning of the code page to change character encoding.
-  #Default is ASCII
-#arguements:
-  #a or n is default
-  #e is EUC
-  #u is UTF-8
-$KCODE = "u" #UTF-8
-```
 ####Some String Methods
 ```ruby
 "String".chomp #Removes new lines
@@ -41,4 +31,14 @@ puts variable.upcase #(Shows "STRING")
 puts variable #(Shows "string")
 puts variable.upcase! #(Shows "STRING")
 puts variable #(Shows "STRING") <- Variable was updated with the new string
+```
+####Character Encoding
+```ruby
+$KCODE = "arguement" #Add to the beginning of the code page to change character encoding.
+  #Default is ASCII
+#arguements:
+  #a or n is default
+  #e is EUC
+  #u is UTF-8
+$KCODE = "u" #UTF-8
 ```

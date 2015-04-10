@@ -2,7 +2,7 @@
 ####Equality
 ```ruby
 #Assign
-variable = "this
+variable = "this"
 
 #Is equal to
 isThis == this

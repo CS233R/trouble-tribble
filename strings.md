@@ -21,17 +21,21 @@
 ####Some String Methods
 ```ruby
 "String".chomp #Removes new lines
-"Srting".capitalize #Capitalizes first character
+"string".capitalize #Capitalizes first character
+  #Returns "String"
 "String".downcase #Lowercases all letters
+  #Returns "string"
 "String".upcase #Capitalizes all letters
+  #Returns "STRING"
 "String".split #Splits each letter into an array index
+  #Returns {"S","t","r","i","n","g"}
 
 #Adding ! to the end of many methods will operate the method then update the actual variable
-varible = "string"
-puts variable.upcase #(Shows "STRING")
-puts variable #(Shows "string")
-puts variable.upcase! #(Shows "STRING")
-puts variable #(Shows "STRING") <- Variable was updated with the new string
+  varible = "string"
+  puts variable.upcase #(Shows "STRING")
+  puts variable #(Shows "string")
+  puts variable.upcase! #(Shows "STRING")
+  puts variable #(Shows "STRING") <- Variable was updated with the new string
 ```
 ####Character Encoding
 ```ruby

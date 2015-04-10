@@ -2,20 +2,18 @@
 ####if, elsif, else
 ```ruby
 #If
-if (this == true){
+if (this == true)
   doThis
-}
+end
 
 #Else and Elsif (Note the lack of second "e")
-if (this == true){
+if (this == true)
   doThis
-}
-elsif (thisOne == true){
+elsif (thisOne == true)
   doThisOne
-}
-else{ #takes no arguement
+else #takes no arguement
   doThat
-}
+end
 
 #Ternary Operator (Single line "if" statement)
 condition ? ifTrue : else

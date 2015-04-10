@@ -24,6 +24,7 @@
 "Srting".capitalize #Capitalizes first character
 "String".downcase #Lowercases all letters
 "String".upcase #Capitalizes all letters
+"String".split #Splits each letter into an array index
 
 #Adding ! to the end of many methods will operate the method then update the actual variable
 varible = "string"

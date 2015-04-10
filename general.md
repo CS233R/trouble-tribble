@@ -16,7 +16,7 @@ a, b = b, c #a == b and b == c
 #Variable names should be easy to understand
 #Varibles cannot begin with numbers
 2Bad4U #Not valid
-#Symbols should not be used (except for underscores)
+#Symbols cannot not be used (except for underscores)
 
 #Constants begin with a capital letter
   #Conventionally, they are typed in all capital letters
